@@ -1,0 +1,18 @@
+{
+	"name": "rtablada/supervalidator",
+	"authors": [
+		{
+			"name": "Ryan Tablada",
+			"email": "ryan.tablada@gmail.com"
+		}
+	],
+	"require": {
+		"illuminate/validation": "~4",
+		"illuminate/database": "~4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Rtablada\\SuperValidator\\": "src/"
+		}
+	}
+}
