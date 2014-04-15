@@ -1,5 +1,6 @@
 {
-	"name": "rtablada/supervalidator",
+	"name": "rtablada/super-validator",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Ryan Tablada",
